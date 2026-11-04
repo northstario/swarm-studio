@@ -1,0 +1,10 @@
+{
+  "name": "swarm-studio",
+  "version": "1.0.0",
+  "description": "Swarm-intelligence simulator that runs on your own Claude: publishes Swarm Studio to your claude.ai account as a private Artifact.",
+  "author": { "name": "northstario" },
+  "homepage": "https://github.com/northstario/swarm-studio",
+  "repository": "https://github.com/northstario/swarm-studio",
+  "license": "MIT",
+  "keywords": ["simulation", "multi-agent", "swarm", "artifact", "prediction"]
+}

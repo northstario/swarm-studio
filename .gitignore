@@ -1,0 +1,5 @@
+# local app runtime data (simulations, logs, pid)
+data/
+node_modules/
+.DS_Store
+.claude/

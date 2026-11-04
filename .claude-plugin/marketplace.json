@@ -1,0 +1,14 @@
+{
+  "name": "swarm-studio",
+  "owner": {
+    "name": "northstario"
+  },
+  "description": "Swarm Studio: a swarm-intelligence simulator that runs on your own Claude as a private claude.ai Artifact.",
+  "plugins": [
+    {
+      "name": "swarm-studio",
+      "source": "./",
+      "description": "Swarm-intelligence simulator that runs on your own Claude: publishes Swarm Studio to your claude.ai account as a private Artifact."
+    }
+  ]
+}
